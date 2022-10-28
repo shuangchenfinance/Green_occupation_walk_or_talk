@@ -1,6 +1,10 @@
 # List of occupations on susbtantive green transition practices and communication of green images
 
-This dataset is created by Shuang Chen in her working paper "Green Investors and Firm Green Transition Efforts: Talk the Talk or Walk the Walk?". The 204 occupations in this dataset are defined as green occupations by the U.S. Department of Labor. I further separate them by their contribution to the environment.	
+This dataset is created by Shuang Chen in her following paper.
+
+Chen, Shuang, Green Investors and Green Transition Efforts: Talk the Talk or Walk the Walk? (October 21, 2022). Available at SSRN: https://ssrn.com/abstract=4254894 or http://dx.doi.org/10.2139/ssrn.4254894
+
+The 204 occupations in this dataset are defined as green occupations by the U.S. Department of Labor. I further separate them by their contribution to the environment.	
 
 Variable name	and Definition:
 
