@@ -10,7 +10,7 @@ The 204 occupations in this dataset are defined as green occupations by the U.S.
 
 (2) Green Enhanced Skills Occupations. The impact of sustainable economic activities and technologies results in a significant change in the work and worker requirements of an existing occupation. The essential purposes of the occupation remain the same, but tasks, skills, knowledge, and external elements, such as credentials, have been altered.
 
-(3) Green New and Emerging Occupations. The impact of sustainable economic activities and technologies is sufficient to create the need for unique work and worker requirements, which results in the generation of a new occupation. This new occupation could be entirely novel or ``born” from an existing occupation.
+(3) Green New and Emerging Occupations. The impact of sustainable economic activities and technologies is sufficient to create the need for unique work and worker requirements, which results in the generation of a new occupation. This new occupation could be entirely novel or "born” from an existing occupation.
 
 The National Center for O*NET Development provides the 204 green occupations' O*NET-SOC 2010 codes. You can use the Crosswalk from the 2010 code to the 2019 code provided by the O*NET Resource Center to obtain their O*NET-SOC 2019 codes.
 
@@ -20,9 +20,9 @@ Efforts:	Type of green transition efforts this occupation contributes to. The va
 
 Always:	Dummy variable indicating whether workers employed in this occupation are always related to the environment or depend on context. If they are always related to the environment, the value is 1, otherwise, the value is 0.
 
-O*NET Title:	O*NET Title of the occupation in the O*NET-SOC 2010 version.
+ONET Title:	O*NET Title of the occupation in the ONET-SOC 2010 version.
 
-O*NET code:	O*NET Code of the occupation in the O*NET-SOC 2010 version.
+ONET code:	O*NET Code of the occupation in the ONET-SOC 2010 version.
 
 How were Walk and Talk separated?
 
