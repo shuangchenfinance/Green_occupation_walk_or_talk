@@ -14,7 +14,7 @@ The 204 occupations in this dataset are defined as green occupations by the U.S.
 
 The National Center for ONET Development provides the 204 green occupations' ONET-SOC 2010 codes. You can use the Crosswalk from the 2010 code to the 2019 code provided by the ONET Resource Center to obtain their ONET-SOC 2019 codes.
 
-Variable name	and Definition:
+**Variable name	and Definition:**
 
 Efforts:	Type of green transition efforts this occupation contributes to. The value can be Walk or Talk. 
 
@@ -24,7 +24,7 @@ ONET Title:	ONET Title of the occupation in the ONET-SOC 2010 version.
 
 ONET code:	ONET Code of the occupation in the ONET-SOC 2010 version.
 
-How were Walk and Talk separated?
+**How were Walk and Talk separated?**
 
 Although walk-relevant and talk-relevant occupations closely interact and ultimately contribute to the green transition together, they specialize in tasks with distinct characteristics. The important distinction is that talk-relevant occupations do not directly generate environmental impact. Their influence is indirect, typically by supporting the walk-relevant occupations. For example, a public relations specialist managing a pollution scandal does not improve the environment unless other parts of the firm take action. Thus, if most tasks in a green occupation do not directly result in environmental change, it is classified as talk-relevant. Otherwise, it is considered walk-relevant.
 
